@@ -73,9 +73,9 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "Somos una Agencia de Diseño que pensamos a lo grande"
     tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    primary_button        = "Mira nuestro trabajo"
     primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    secondary_button      = "Contacta con nosotros"
     secondary_button_url  = "contact"
 
   [params.blog]
